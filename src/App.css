@@ -1,0 +1,45 @@
+body {
+  margin: 40;
+  background-color: lightcyan;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+  background-color: white;
+  margin: 20px 400px;
+  box-shadow: 0px 4px 8px 0 rgb(0, 0, 0, 0.2);
+  margin-bottom:20px;
+}
+
+.title {
+  margin: 400px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.underline {
+  background-color: darkcyan;
+  height: 4px;
+  width: 100px;
+  margin: 0px 0px 0px 420px;
+}
+
+.image {
+  width: 550px;
+  box-shadow: 0px 4px 8px 0 rgb(0, 0, 0, 0.2);
+}
+
+.tour--data {
+  display: block;
+  justify-content:space-between;
+  margin:10px 40px 10px 40px;
+}
+
+.tour--price {
+  color:cadetblue;
+}
+
+.tour--title {
+  display: flex;
+  justify-content: space-between;
+}
